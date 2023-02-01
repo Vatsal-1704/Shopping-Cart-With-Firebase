@@ -1,3 +1,8 @@
+#preview of app
+
+![Screenshot 162514](https://user-images.githubusercontent.com/120648954/216024607-3304f2c3-9b54-4734-92d8-def913e3cad5.png)
+![Screenshot 162646](https://user-images.githubusercontent.com/120648954/216024614-31654214-31b4-448d-a2a9-d1741a4006ae.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -54,8 +59,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
-![Screenshot 162514](https://user-images.githubusercontent.com/120648954/216024607-3304f2c3-9b54-4734-92d8-def913e3cad5.png)
-![Screenshot 162646](https://user-images.githubusercontent.com/120648954/216024614-31654214-31b4-448d-a2a9-d1741a4006ae.png)
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
